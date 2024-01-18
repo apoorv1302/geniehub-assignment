@@ -1,0 +1,70 @@
+Understanding the Basics of Scrum Master
+In short, Scrum methodology works like this: the product owner submits a request and the development team (led by a Scrum Master) breaks it down into smaller pieces, also known as “sprints.” Sprints consist of reiterative and collaborative development and testing procedures in a fast-paced environment and, ideally, create a more efficient product lifecycle. By using agile Scrum methodologies effectively, companies can produce a viable deliverable in two to four weeks. The Scrum Master is at the center of it all by coordinating project activities with business objectives.
+
+What is a Scrum Master?
+A Scrum master is responsible for ensuring that the Scrum team follows the processes that were agreed upon. Keeping obstacles and distractions out of the team's path is one of the responsibilities of the Scrum master. In this role, the individual acts as the interface between the Scrum team and other people or teams.
+A Scrum Master holds a position that’s relatively narrow in scope, yet extremely broad in influence throughout any organization. In practice, however, a Scrum Master is working behind the scenes and is not involved in product ideation or strategy. They work more as a conduit between product/line-of-business owners and development teams as a project manager. Because agile processes are entirely dependent on people and collaboration, Scrum Masters must also marry soft skills with the latest tools and methods. After all, software projects have many moving parts, and individual programmers can quickly lose sight of the broader scope when heads-down in code. A Scrum Master, on the other hand, maintains a high-level view, helping teams to understand both organizational and technical dependencies while avoiding chokepoints. This creates a culture of accountability and enables teams to meet critical deadlines.
+So now, as you are well aware of what a scrum master is, it's time for you to understand the roles and responsibilities of a scrum master.
+
+
+What Does a Scrum Master Do?
+Here are some key responsibilities of a Scrum Master:
+* Facilitate the Scrum process: The Scrum Master ensures that the Scrum process is rigorously followed by the team. This includes conducting Scrum ceremonies such as Sprint Planning, Daily Standup, Sprint Review, and Sprint Retrospective.
+* Remove impediments: The Scrum Master is responsible for identifying and removing any impediments that may be preventing the team from delivering value. This could include anything from technical issues to team dynamics.
+* Coach the team: The Scrum Master is responsible for coaching the team on Scrum principles and practices. This includes helping the team to self-organize, and to continuously improve their processes.
+* Protect the team: The Scrum Master is responsible for protecting the team from outside distractions and interruptions. This allows the team to focus on their work and deliver value.
+* Facilitate communication: The Scrum Master is responsible for ensuring that there is clear communication between the team, the Product Owner, and any other stakeholders.
+* Ensure transparency: The Scrum Master is responsible for ensuring that the team's progress is transparent to all stakeholders. This includes maintaining a visible product backlog and burn-down chart.
+Scrum Master Responsibilities
+1. Implement Project Management/Best Practices
+The Scrum Master is responsible for creating and onboarding project teams, integrating them into the organization and providing a clear vision of the product. The Scrum Master also facilitates communication and information exchange between external groups and the project team. They also monitor project progress, provide timely feedback, and drive a culture of agility and learning.
+2. Keep all Parties on Track and Informed
+The Scrum Master hosts daily team meetings to get updates on the progress of the project, address potential roadblocks, and ensure that the project is on track. They also host regular sessions to share updates with product stakeholders about how the project is progressing (or not). Ultimately, it’s a Scrum Master’s job to ensure that the team is meeting deadlines with the desired outcome.
+3. Introduce Agile Engineering Practices
+To improve efficiency, Scrum Masters encourage the use of continuous integration (CI) and automation. With CI tools, developers integrate chunks of code into a central repository frequently, from which automated builds and tests run in successive iterations. This repeatable approach reduces the risk, time, and effort associated with traditional development methods. For instance, if a bug appears in one build, it can quickly be fixed in the next. Another agile technique Scrum Masters advocate is “pair programming”, where two developers collaborate in real-time and at the same workstation. Altogether, these practices reduce development time and improve the architecture and quality of the product.
+4. Coach Team Members
+The Scrum Master serves as the coach for the development team and the product owner. One of their key responsibilities is to ensure that the team is adequately trained to understand Agile processes, the team members know their specific roles and are dedicated to the project. Like a true coach, the Scrum Master makes sure that the teams are self-managed. They constantly look for ways to improve team performance and productivity. 
+
+5. Host Daily Stand-up Meetings
+The Scrum Master keeps the team organized and on track by hosting daily stand-up meetings, sprint planning meetings, sprint reviews, etc. In these brief meetings, teams discuss their accomplishments, what they’re planning to do on that day, and if they are facing any obstacles while completing the tasks. It’s the Scrum Master’s duty to ensure that all team members, even those working remotely can attend and participate in the meetings.
+6. Assist the Product Owner With the Product Backlog
+Product backlog refers to the list of tasks that the team needs to do. It is the product owner’s responsibility to create and maintain the product backlog, which keeps changing based on current status of the work and development needs. The Scrum Master helps the product owner refine and maintain the backlog by using information gathered from standup meetings. They schedule review meetings and prioritize work on user stories. 
+7. Remove Roadblocks
+ The Scrum Master helps the team stay focused on tasks needed to be done in each iteration. For this, the Master removes any distractions or roadblocks that can hinder the progress of the team. For instance, if team members are forced into attending too many unimportant meetings, that can hamper work. The Scrum Master can coordinate with the meeting organizers to ensure only those members who are absolutely essential are required to attend each meeting. Alternatively, if someone from the team is being asked to work on multiple teams, the Scrum Master can collaborate with product owners and stakeholders to ensure the workload is redistributed.  
+8. Teach Scrum Practices and Principles
+The Scrum Master is well proficient in key Scrum practices and processes. They play the role of a mentor to ensure smooth onboarding of new employees and team members.  The Scrum Master helps new members understand the scope and vision of a product and ensures work does not slow down. It is their task to make sure that the team follows Scrum practices and rules while working. They teach the team ways to stay self-organized and focused, which in turn improves productivity. 
+
+Scrum Master Roles
+Product Owner
+The scrum master's role in supporting product owners in the following aspects:
+* Find methods to effectively manage the product backlog.
+* Help communicate the owner’s wishlist to the project team.
+* Arrange and optimize product backlog.
+* Organize scrum events as necessary.
+Organization
+The scrum master's role in the organization in the following aspects:
+* Lead and coach scrum adoption.
+* Plan scrum implementation.
+* Implement changes and steps to increase the team’s productivity.
+* Collaborate with other scrum masters to improve the methodologies’ efficiency.
+So, as we have learned the roles and responsibilities of a scrum master, it's also important for you to understand the top qualities to become a successful scrum master.
+FAQs
+1. What is the role of the scrum master?
+The scrum master is committed to scrum values and practices. They must be flexible enough to facilitate scrum to larger teams by ensuring the scrum framework is strictly followed. They also need to open opportunities for the team to improve their workflow. 
+2. What are the responsibilities of a scrum master?
+Scrum masters should foster team communication, maintain tools, create reports, provide support, remove blockers, act as a buffer for disruptive PMs and management, and settle disagreements between team members. 
+3. What is not the responsibility of a Scrum Master?
+Though a scrum master solves the majority of the problems, they cannot solve all of them. They must promote, support, and ensure the organization understands and follows the scrum. They can solve the issue by helping their team members in case of a problem. 
+4. What do Scrum Masters do all day?
+A scrum master is the master of the daily scrum. They need to do sprint planning, review, and retrospectives daily. Their key responsibility is to remove impediments and help the team become more organized and empowered to innovate and make decisions. 
+5. What does a Scrum Master do?
+A scrum master facilitates collaboration and communication between team players and leadership to ensure a successful outcome. They are professionals who lead a team using Agile project management throughout a project. 
+6. What makes a good Scrum Master?
+A good scrum master should have a key understanding of Kanban, Lean, and XP. They must know every principle strengths, weaknesses, opportunities, and risks, how to use them, and at what time. They must help their team members become more effective in an agile context and attain their goals. 
+7. Who does a Scrum Master work with?
+A scrum master works more as a project manager. They perform their tasks as a conduit between product/line of business owners and development teams. Scrum masters should have soft skills with the latest tools and methods because they need to work with people and collaborate with them. 
+8. What are the three roles of a Scrum Master?
+The three roles of a scrum master are to facilitate, lead, and communicate. A scrum master must facilitate scrum meetings, also called daily standups. They must lead the meetings and conduct retrospective reviews to see what’s happening. They must communicate well with their team members and manage obstacles effectively. 
+
+
+￼
